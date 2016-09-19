@@ -1,0 +1,17 @@
+C:\CSharp3\Chapter12\CSharp3eChapter12Exercises\Animated\Animated\bin\Release\Animated.exe
+C:\CSharp3\Chapter12\CSharp3eChapter12Exercises\Animated\Animated\bin\Release\Animated.pdb
+C:\CSharp3\Chapter12\CSharp3eChapter12Exercises\Animated\Animated\obj\Release\ResolveAssemblyReference.cache
+C:\CSharp3\Chapter12\CSharp3eChapter12Exercises\Animated\Animated\obj\Release\WindowsApplication1.Form1.resources
+C:\CSharp3\Chapter12\CSharp3eChapter12Exercises\Animated\Animated\obj\Release\WindowsApplication1.Properties.Resources.resources
+C:\CSharp3\Chapter12\CSharp3eChapter12Exercises\Animated\Animated\obj\Release\Animated.csproj.GenerateResource.Cache
+C:\CSharp3\Chapter12\CSharp3eChapter12Exercises\Animated\Animated\obj\Release\Animated.exe
+C:\CSharp3\Chapter12\CSharp3eChapter12Exercises\Animated\Animated\obj\Release\Animated.pdb
+C:\C#\Chapter.13\Animated\Animated\obj\Release\Animated.exe
+C:\C#\Chapter.13\Animated\Animated\obj\Release\Animated.pdb
+C:\C#\Chapter.13\Animated\Animated\bin\Release\Animated.exe
+C:\C#\Chapter.13\Animated\Animated\bin\Release\Animated.pdb
+C:\C#\Chapter.13\Animated\Animated\obj\Release\ResolveAssemblyReference.cache
+C:\C#\Chapter.13\Animated\Animated\obj\Release\WindowsApplication1.Form1.resources
+C:\C#\Chapter.13\Animated\Animated\obj\Release\WindowsApplication1.Properties.Resources.resources
+C:\C#\Chapter.13\Animated\Animated\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\C#\Chapter.13\Animated\Animated\obj\Release\GenerateResource-ResGen.write.1.tlog

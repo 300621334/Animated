@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Animated">
+</Property><Property Name="Solution File" Value="C:\CSharp3\Chapter12\CSharp3eChapter12Exercises\Animated\Animated.sln">
+</Property><Property Name="User Options File" Value="C:\CSharp3\Chapter12\CSharp3eChapter12Exercises\Animated\Animated.suo">
+</Property><Property Name="Date" Value="Saturday, December 01, 2007">
+</Property><Property Name="Time" Value="14:40 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Animated.sln" Description="File successfully backed up as C:\CSharp3\Chapter12\CSharp3eChapter12Exercises\Animated\Backup\Animated.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Animated.suo" Description="File successfully backed up as C:\CSharp3\Chapter12\CSharp3eChapter12Exercises\Animated\Backup\Animated.suo">
+</Event><Event ErrorLevel="0" Project="Animated" Source="Animated\Animated.csproj" Description="Project file successfully backed up as C:\CSharp3\Chapter12\CSharp3eChapter12Exercises\Animated\Backup\Animated\Animated.csproj">
+</Event><Event ErrorLevel="0" Project="Animated" Source="Animated\Form1.cs" Description="File successfully backed up as C:\CSharp3\Chapter12\CSharp3eChapter12Exercises\Animated\Backup\Animated\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Animated" Source="Animated\Form1.Designer.cs" Description="File successfully backed up as C:\CSharp3\Chapter12\CSharp3eChapter12Exercises\Animated\Backup\Animated\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Animated" Source="Animated\Program.cs" Description="File successfully backed up as C:\CSharp3\Chapter12\CSharp3eChapter12Exercises\Animated\Backup\Animated\Program.cs">
+</Event><Event ErrorLevel="0" Project="Animated" Source="Animated\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\CSharp3\Chapter12\CSharp3eChapter12Exercises\Animated\Backup\Animated\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Animated" Source="Animated\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\CSharp3\Chapter12\CSharp3eChapter12Exercises\Animated\Backup\Animated\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Animated" Source="Animated\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\CSharp3\Chapter12\CSharp3eChapter12Exercises\Animated\Backup\Animated\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Animated" Source="Animated\Properties\Settings.settings" Description="File successfully backed up as C:\CSharp3\Chapter12\CSharp3eChapter12Exercises\Animated\Backup\Animated\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Animated" Source="Animated\Resources\chalkboardKitty.GIF" Description="File successfully backed up as C:\CSharp3\Chapter12\CSharp3eChapter12Exercises\Animated\Backup\Animated\Resources\chalkboardKitty.GIF">
+</Event><Event ErrorLevel="0" Project="Animated" Source="Animated\Form1.resx" Description="File successfully backed up as C:\CSharp3\Chapter12\CSharp3eChapter12Exercises\Animated\Backup\Animated\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Animated" Source="Animated\Properties\Resources.resx" Description="File successfully backed up as C:\CSharp3\Chapter12\CSharp3eChapter12Exercises\Animated\Backup\Animated\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Animated" Source="Animated\Animated.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Animated" Source="Animated\Animated.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Animated.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Animated.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Animated" Source="Animated\Animated.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
